@@ -1,2 +1,2 @@
-# Java_Simple_programs
+# Java_programs
 My java journey
